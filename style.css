@@ -83,7 +83,7 @@ img {
 @media only screen and (max-width: 624px) {
   .card-image {
     width: 100%;
-    max-width: 200px;
+    max-width: 120px;
     margin: 0 auto;
   }
 }
